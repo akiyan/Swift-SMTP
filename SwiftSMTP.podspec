@@ -10,6 +10,6 @@ description
   s.author             = { "akiyan" => "akiyan.com@gmail.com" }
   s.source       = { :git => "https://github.com/akiyan/Swift-SMTP.git", :tag => "4.0.0" }
 
-  s.source_files  = "Sources", "Sources/**/*.{h,m}"
+  s.source_files  = "Sources", "Sources/**/*.{h,m,swift}"
   s.exclude_files = "Sources/Exclude"
 end
