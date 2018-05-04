@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name         = "Swift-SMTP"
+  s.name         = "SwiftSMTP"
   s.version      = "4.0.0"
-  s.summary      = "Swift-SMTP."
+  s.summary      = "SwiftSMTP."
   s.description  = <<-DESC
 description
                    DESC
